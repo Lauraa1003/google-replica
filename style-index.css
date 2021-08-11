@@ -1,0 +1,225 @@
+
+
+
+/* nav bar links*/
+
+  .nav2  {
+      margin-top:20px;
+    margin-left: 1180px;
+    margin-right: 400x;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;  
+}
+
+li {
+    display: inline;
+    margin-right: 10px;
+}
+
+a:link{text-decoration:none;  color:rgb(77, 71, 71);}
+
+a:visited {color:rgb(77, 71, 71); text-decoration:none;}
+
+a:hover {text-decoration: underline;}
+
+a:active {text-decoration: underline;}
+
+
+    /*google logo*/
+  img{
+    max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 190px;
+    width: 19%;
+  }
+
+   /*searchbar + icons*/
+  .searchbar {
+    width: 20%;
+    height: 17px;
+    border-radius: 50px;
+    border: 1px solid #dfe1e5;
+    padding: 1% 10%;
+    margin: 2% 30%;
+    background: url(search-icon2.png) 20px 15px, url(google-mic.svg) 530px 10px;
+    background-repeat: no-repeat;
+    outline: 0;
+    background-size:16px;
+    
+  }
+  
+
+  .searchbar:hover {
+    box-shadow: 0 1px 6px rgba(32, 33, 36, 0.28);
+    border-color: rgba(223, 225, 229, 0);
+  }
+
+
+/*submit buttons*/
+.buttonholder{
+    margin: 0 auto;}
+
+  .search{
+    padding: 1% 1%;
+    position: absolute;
+    margin: 0% 40%;
+    height: 36px;
+    background-color: hsl(0, 0%, 98%);
+    color: hsl(210, 2%, 33%);
+    border-radius: 4px;
+    border-style: none ;
+    font-size: 14px;
+  }
+
+ 
+.search:hover{
+    box-shadow: 0 1px 6px rgba(32, 33, 36, 0.28);
+    border-color: rgba(223, 225, 229, 0);
+    cursor: pointer;
+
+ }
+
+  .lucky{
+    position: absolute;
+    padding: 1% 1%;
+    margin: 0% 50%;
+    height: 36px;
+    background-color: hsl(0, 0%, 98%);
+    color: hsl(210, 2%, 33%);;
+    border-radius: 4px;
+    border-style: none ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+  }
+   
+  .lucky:hover{
+    color: #222222;
+    box-shadow: 0 1px 6px rgba(32, 33, 36, 0.28);
+    border-color: rgba(223, 225, 229, 0);
+    cursor: pointer;
+
+
+  /*Google offered in language*/  
+  }
+   .language {
+       font-family: Arial, Helvetica, sans-serif;
+       color: hsl(210, 2%, 33%);
+       display: -webkit-box;
+       display: -ms-flexbox;
+       display: flex;
+       -webkit-box-align: center;
+       -ms-flex-align: center;
+        align-items: center;
+       -webkit-box-pack: center;
+       -ms-flex-pack: center;
+       justify-content: center;
+       -ms-flex-wrap: wrap;
+       flex-wrap: wrap;
+       text-align: center;
+       font-size: smaller;
+       margin: 50px 0 20px 0;
+
+   }
+ .language-type {
+   color: #081ab8 !important;
+  padding: 0 4px;
+}
+
+/* Footer*/
+.footer{
+   height: 95px;
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: rgba(58, 61, 61, 0.103);
+   color: hsl(210, 2%, 33%);
+   padding: 0 0px;
+   text-align:left;
+}
+
+/*country*/
+.country{
+    position:absolute;
+       margin-left: 29px;
+       margin-top: -40px;
+       margin-bottom: 0;
+       color:grey !important; 
+       font-size: 15px;
+}
+
+/* footer links*/
+   .about{
+    position:fixed;
+    margin-top: 298px;
+    margin-left: -800px;
+    margin-bottom: 0;
+    color:grey !important; 
+    font-size: 14px;
+   }
+
+   .advertising{
+    position:fixed;
+    margin-top: 298px;
+    margin-left: -735px;
+    margin-bottom: 0;
+    color:grey !important; 
+    font-size: 14px;
+   }
+   
+   .business{
+    position:fixed;
+    margin-top: 298px;
+    margin-left: -635px;
+    margin-bottom: 0;
+    color:grey !important; 
+    font-size: 14px;
+   }
+
+   .how{
+    position:fixed;
+    margin-top: 298px;
+    margin-left: -547px;
+    margin-bottom: 0;
+    color:grey !important; 
+    font-size: 14px;
+   }
+
+   .privacy{
+    position:fixed;
+    margin-top: 298px;
+    margin-left: 376px;
+    margin-bottom: 0;
+    color:grey !important; 
+    font-size: 14px;
+   }
+
+   .terms{
+    position:fixed;
+    margin-top: 298px;
+    margin-left: 452px;
+    margin-bottom: 300px;
+    color:grey !important; 
+    font-size: 14px;
+   }
+
+   .setting{
+    position:fixed;
+    margin-top: 298px;
+    margin-left: 520px;
+    margin-bottom: 0;
+    color:grey !important; 
+    font-size: 14px;
+   }
+   /*horizontal line footer*/
+hr {
+    border-color:rgba(128, 128, 128, 0.137) !important;
+    display: block;
+    margin-top: 47px;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    height: 0,1px;   
+}

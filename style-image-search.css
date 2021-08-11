@@ -1,0 +1,166 @@
+
+/*links in de navbar*/
+
+.nav2  {
+    margin-top:20px;
+  margin-left: 1250px;
+  margin-right: 400x;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;  
+}
+
+li {
+  display: inline;
+  margin-right: 10px;
+}
+
+a:link{text-decoration:none; color:rgb(77, 71, 71);}
+
+a:visited {color:rgb(77, 71, 71); text-decoration:none;}
+
+a:hover {text-decoration: underline;}
+
+a:active {text-decoration: underline;}
+
+
+/* google logo + images*/
+
+img{
+max-width: 100%;
+display: block;
+margin-left: auto;
+margin-right: auto;
+margin-top: 190px;
+width: 19%;
+}
+
+/*Searchbar*/
+
+
+.searchbar {
+    width: 20%;
+    height: 17px;
+    border-radius: 50px;
+    border: 1px solid #dfe1e5;
+    padding: 1% 10%;
+    margin: 2% 30%;
+    background: url(search-icon2.png) 20px 15px, url(google-mic.svg) 490px 10px , url(camera3.png) 450px 15px, url(searchblue2.png) 530px 15px;
+    background-repeat: no-repeat;
+    outline: 0;
+    background-size:16px;
+}
+
+.searchbar:hover {
+    box-shadow: 0 1px 6px rgba(30, 31, 34, 0.28);
+    border-color: rgba(223, 225, 229, 0);
+  }
+
+  /*footer*/
+
+  .footer{
+    height: 95px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(58, 61, 61, 0.103);
+    color: hsl(210, 2%, 33%);
+    padding: 0 0px;
+    text-align:left;
+ }
+ 
+ /*country*/
+ .country{
+     position:absolute;
+        margin-left: 29px;
+        margin-top: -40px;
+        margin-bottom: 0;
+        color:grey !important; 
+        font-size: 15px;
+        font-family:Arial, Helvetica, sans-serif;
+ }
+
+ /* footer links*/
+ .about{
+    position:absolute;
+    margin-top: 363px;
+    margin-left: 200px;
+    margin-bottom: 0;
+    color:grey !important; 
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+   }
+
+   .advertising{
+    position:absolute;
+    margin-top: 363px;
+    margin-left: 20px;
+    margin-bottom: 0;
+    color:grey !important; 
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+   }
+   
+   .business{
+    position:fixed;
+    margin-top: 363px;
+    margin-left: 120px;
+    margin-bottom: 0;
+    color:grey !important; 
+    font-size: 14px;
+    font-family:Arial, Helvetica, sans-serif;
+   }
+
+   .how{
+    position:fixed;
+    margin-top: 363px;
+    margin-left: 260px;
+    margin-bottom: 0;
+    color:grey !important; 
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+   }
+
+ 
+   .privacy{
+    position:absolute;
+    margin-top: 363px;
+    margin-left: 1200px;
+    margin-bottom: 0;
+    color:grey !important; 
+    font-size: 14px;
+    font-family:Arial, Helvetica, sans-serif;
+    
+   }
+
+   .terms{
+    position:absolute;
+    margin-top: 363px;
+    margin-left: 1280px;
+    margin-bottom: 300px;
+    color:grey !important; 
+    font-size: 14px;
+    font-family:Arial, Helvetica, sans-serif;
+   }
+
+   .setting{
+    position:absolute;
+    margin-top: 363px;
+    margin-left: 1350px;
+    margin-bottom: 0;
+    color:grey !important; 
+    font-size: 14px;
+    font-family:Arial, Helvetica, sans-serif;
+   }
+
+   
+   /*horizontal line footer*/
+hr {
+    border-color:rgba(128, 128, 128, 0.137) !important;
+    display: block;
+    margin-top: 47px;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    height: 0,1px;   
+}
