@@ -3,7 +3,7 @@
 Front-end for Google Search, Google Image Search, and Google Advanced Search.
 
 
-*This was my first project created in august 2021. Click this link to see a video of the results : (https://www.youtube.com/watch?v=RdWtLNlYBkw&t=3s)*
+*This was my first project created in august 2021. Click this link to see a video of the results: https://www.youtube.com/watch?v=RdWtLNlYBkw&t=3s*
 
 ## Specification
 
