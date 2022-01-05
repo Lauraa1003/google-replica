@@ -3,11 +3,11 @@
 Front-end for Google Search, Google Image Search, and Google Advanced Search.
 
 
-* * This was my first project created in august 2021. Click this link to see a video of the results : (https://www.youtube.com/watch?v=RdWtLNlYBkw&t=3s) * *
+*This was my first project created in august 2021. Click this link to see a video of the results : (https://www.youtube.com/watch?v=RdWtLNlYBkw&t=3s)*
 
-##Specification
+## Specification
 
-Your website must meet the following requirements.
+*Your website must meet the following requirements*
 
 **Pages**. Your website should have at least three pages: one for Google Search, one for Google Image Search, and one for Google Advanced Search.
 On the Google Search page, there should be links in the upper-right of the page to go to Image Search or Advanced Search. On each of the other two pages, there should be a link in the upper-right to go back to Google Search.
